@@ -1,0 +1,123 @@
+body { 
+ background-color: #0894; 
+ color:  rgb(30, 30, 30); 
+ font-family: Lemonada;
+ font-weight:  100;  
+}
+
+h1, h2, h3 {
+	font-family: Roboto;
+}
+
+
+
+h1 {
+
+color: #090080;
+    font-family: Arial;
+    font-weight: 400;
+    letter-spacing: 10px;
+    font-size: 80px;
+}
+
+h2 {
+	color: rgb(90, 90, 90);
+	font-size: 24px;
+	font-weight: 600;
+}
+a {
+	font-family: Roboto;
+	text-decoration: none;
+	color: #090080;
+	font-weight: 550;
+	font-size: 17px;
+}
+a:hover {
+	color: yellow;}
+
+
+
+#pres {
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+#beatch {
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+#leo {
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+#tiramisus{
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+#laughing {
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+#follow {
+	background: white;
+	padding: : 60px;
+	margin: 50px;
+	box-shadow: 5px 10px 30px rgba(3,4,6,0.1);
+	border-radius: 4px;
+	text-align: center;
+	color: #090080;
+}
+
+.img {
+	border-radius: 50%;
+}
+
+.container {
+	width: 700px
+	margin: 40px auto;
+}
+.btn-blue {
+background-color: #090080;
+color: white;
+padding: 15px 20px;
+border-radius: 4px;
+}
+.card-white {
+	background-color: white;
+	padding: 60px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+	border-radius: 4px;
+	margin: 20px 0px
+}
+
+@media (max-width: 760px)  {
+	.container {
+	width: 600px;
+	}
+	}
+@media (max-width: 500px)  {
+	.container {
+	width: 400px;
+	}
+	}
+
+
